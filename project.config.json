@@ -9,9 +9,8 @@
 	},
 	"compileType": "game",
 	"libVersion": "1.9.94",
-	"appid": "wx6ac3f5090a6b99c5",
-	"projectname": "flappybird",
-	"isGameTourist": true,
+	"appid": "wx826eb470c7f703c8",
+	"projectname": "flappyBird",
 	"condition": {
 		"search": {
 			"current": -1,
